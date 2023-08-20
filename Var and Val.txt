@@ -1,0 +1,48 @@
++-*/
+
+fun main(args: Array<String>) {
+    println(2+5)
+   println("sum: "+(2+5))
+   println("sum:${2+5}")
+   
+   println(2-5)
+   println("sum: "+(2-5))
+   println("${2-5}")
+   
+   println(2*5)
+   println("multiply: "+(2*5))
+   println("${2*5}")
+   
+   println("divide: "+9/3)
+   println("divide: "+(9/3))
+   println("divide:${9/3}")
+
+}
+
+
+
+Val
+
+fun main(args: Array<String>) {
+
+    val name:String ="Hasnat Ahmed"
+    println(name)
+
+    val email:String ="tuffy@gmail.com"
+    println(email)
+
+}
+
+Var
+
+fun main(args: Array<String>) {
+
+    var name:String ="Hasnat Ahmed"
+    println(name)
+
+    var email:String ="tuffy@gmail.com"
+    println(email)
+
+}
+
+            

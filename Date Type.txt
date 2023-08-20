@@ -1,0 +1,32 @@
+fun main(args: Array<String>) {
+
+     //basic types
+//datebase
+//Numbers
+//Characters
+//Booleans
+//Arrays
+
+     //Numbers
+    
+//Byte
+val range:Byte =127
+println(range)
+
+//Short
+val sRange: Short = 405
+    println(+sRange)
+//Int
+val Irange: Int =  4900
+    println(+Irange)
+//Long
+val Lrange: Long = 9999
+    println(+Lrange)
+//Float
+val Vrange = 19.5F
+    println(+Vrange)
+//Double
+ val Drange = 999.5
+    println(+Drange)
+
+}
