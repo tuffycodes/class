@@ -1,0 +1,83 @@
+
+21.8.23
+
+
+
+fun main() {
+print("enter number 1: ")
+val num1 = readLine()!!
+print("enter number 2: ")
+val num2 = readLine()!!
+val sum = num1.toInt() + num2.toInt()
+println("The sum of :${sum} ")
+}
+
+-------------------
+
+fun main() {
+print("Your name: ")
+val num1 = readLine()!!
+print("Your age: ")
+val num2 = readLine()!!
+print("Your gender: ")
+val num3 = readLine()!!
+print("Your Salary?: ")
+val num4 = readLine()!!
+print("Are you married?: ")
+val num5  = readLine()!!
+}
+
+
+-------------------------
+
+fun main() {
+print("Your name: ")
+val name = readLine()!!
+print("Your age: ")
+val age = readLine()!!
+print("Your gender: ")
+val gender = readLine()!!
+print("Your Salary?: ")
+val salary = readLine()!!
+print("Are you married?: ")
+val married  = readLine()!!
+}
+
+
+
+
+--------------------
+fun main() {
+//arithmetic operators
+//for+
+val num1 :Int = 40
+val num2 :Int = 20
+val sum = num1+num2
+println("sum :${sum}") 
+
+//for-
+val num3 :Int = 40
+val num4 :Int = 20
+val sub = num3-num4
+println("sub :${sub}") 
+
+//for*
+val num5 :Int = 40
+val num6 :Int = 20
+val multi = num5*num6
+println("multi :${multi}") 
+
+//for/
+val num7 :Int = 40
+val num8 :Int = 20
+val divide = num7/num8
+println("divide :${divide}") 
+
+//for%
+val num9 :Int = 40
+val num10 :Int = 20
+val mod = num9/num10
+println("mod :${mod}") 
+
+}
+
